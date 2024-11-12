@@ -2,7 +2,7 @@
 - 👋 ***Hi, I’m Jo'rabek***
 - 👨‍💻 ***I’m Native Android Development***
 - 👀 ***I’m interested in android programming***
-- 🌱 ***I’m currently learning Android Jitpack Compose and English***
+- 🌱 ***I’m currently learning Android Jetpack Compose and English***
 - 📫 ***How to reach me turgunboyevjurabek777@gmail.com***
 - 👨‍💻 ***My leetCode accaunt https://leetcode.com/u/turgunboyevjurabek777/***
 
