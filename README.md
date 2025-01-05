@@ -5,6 +5,7 @@
 - 🌱 ***I’m currently learning Android Jetpack Compose and English***
 - 📫 ***How to reach me turgunboyevjurabek777@gmail.com***
 - 👨‍💻 ***My leetCode accaunt https://leetcode.com/u/turgunboyevjurabek777/***
+- 🖇️ ***My Telegram Channel https://t.me/+OK-dmZ92Hk85ZjFi***
 
   # [![](https://visitcount.itsvg.in/api?id=jurabek003&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
